@@ -15,3 +15,5 @@ pos = nx.spring_layout(G)
 nx.draw(G, pos, with_labels=True, node_color="lightgreen", node_size=1800, edge_color="black", font_size=9)
 plt.title("Red de bacterias y mecanismos de resistencia")
 plt.show()
+añado 
+
